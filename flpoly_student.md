@@ -1,27 +1,28 @@
-## Student Name (or name you would preferred to be called)
+## Adan Morales
 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Analytic Geometry and Calculus 2
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Python for Data Analytics
 
-- Course 4
+- Intro to Computation and Programming
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Programming
 
-- Thing 2
+- Skating
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Hanging out with friends
+
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/9/6
